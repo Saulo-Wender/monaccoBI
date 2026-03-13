@@ -1,0 +1,18 @@
+[theme]
+# Cor principal (Botões, seleções, barras de progresso) - Dourado Monacco
+primaryColor = "#C5A059"
+
+# Fundo principal da aplicação (Onde ficam os gráficos) - Azul Meia-noite
+backgroundColor = "#0B1120"
+
+# Fundo secundário (Sidebar, caixas de upload, expanders) - Azul Ardósia
+secondaryBackgroundColor = "#0F172A"
+
+# Cor dos textos gerais
+textColor = "#E2E8F0"
+
+font = "sans serif"
+
+[client]
+# Isso garante que aquele menu lateral chato com os nomes dos arquivos NUNCA mais apareça
+showSidebarNavigation = false
